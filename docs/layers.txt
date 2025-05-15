@@ -1,0 +1,19 @@
+
+Layer explanation
+
+domain -> use-cases
+        |
+        v
+    application
+        |
+        v
+    controllers
+        |
+        v
+infra/presentation/router
+        |
+        v
+main/server (express, appRouter)
+        |
+        v
+    main/index.ts
