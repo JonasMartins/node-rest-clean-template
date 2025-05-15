@@ -1,3 +1,10 @@
+## Node REST basic template without framework and database
+
+Node rest project with basec layers style structure and memory database example, 
+also some basic routes - Objective: to be used as reference for future node js 
+rest clean arch style projects.
+
+
 ### 1. Como rodar
 
 
